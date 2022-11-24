@@ -176,7 +176,7 @@
 							"raw": ""
 						},
 						"url": {
-							"raw": "https://{{apiId}}.execute-api.us-east-1.amazonaws.com/dev/todos/36e83f2e-16db-4ccb-af0d-3b9952c4f8e2/attachment",
+							"raw": "https://{{apiId}}.execute-api.us-east-1.amazonaws.com/dev/todos/3836b777-9bc4-4429-9b79-ba4e4f5f91c0/attachment",
 							"protocol": "https",
 							"host": [
 								"{{apiId}}",
@@ -246,13 +246,13 @@
 		{
 			"id": "bf208e6b-f66d-4008-9366-dd541ff65425",
 			"key": "apiId",
-			"value": "i35bnoe274",
+			"value": "",
 			"type": "string"
 		},
 		{
 			"id": "9bc6399a-d2bb-4f2d-9ffa-8480370d383c",
 			"key": "authToken",
-			"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkFnZGU0MEJNeFJZNW5SUTlLNTQ3dyJ9.eyJpc3MiOiJodHRwczovL2Rldi03Ymc1d3R1Zi5hdXRoMC5jb20vIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMTc5MzY4NDQxNTUyNjM1NzE0NDkiLCJhdWQiOiJRZjhaMnRuUm4xdVl3ZjJjZk54ZEhoaFZ5VndtYUUzaiIsImlhdCI6MTU4OTQzODE1MCwiZXhwIjoxNTg5NDgwMTUwLCJhdF9oYXNoIjoiSDAtUHFUSVlvdVBuRVlheXRWLW1HQSIsIm5vbmNlIjoibUpwZzNjN3JKTXJVMktaS0JodlNvREY3MVRKcjZLSU0ifQ.Ide9sZahJtDFbkfzlaM4UpbahuxgeJ-otA5BIQ3Sp8s3gWKEHCPZ2KnRaqp5oUIUVrDUCKz4uWZSRYrkfotbKZhysqOKEkVie2RPv0SZK3xkMD6RFp5HTD_ypAaBevbV1ZqJQolCl5cTjij-6SFbVc8xLU10SKgCHc-cf7C02dmDkRvetMQYD6a3-tpwouz1RuK9nmRgmboyi5fM6TSU72ZgN259seTVZQo0SPxpNWXtwLGwS8Agkhn26a6K-_zDenkLSvDzd5s2ldI3qflNWQUC6eDYEGDMJsVVKD_OZaULlnoO9YOYbSVaqMuXyAroZYz1KAPQ7zHfxi8dlpGlng",
+			"value": "",
 			"type": "string"
 		}
 	]
